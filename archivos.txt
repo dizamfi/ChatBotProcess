@@ -1,0 +1,93 @@
+GPS-0002024-200-PRC-008-A_Instalacion de Shelter.pdf
+GPS-0002024-204-INS-001-A_Instalacion de Fibra Optica.pdf
+GRE-0002024-752-PRC-002-A_Permisos de Desbroce (Liberacion de franja de servidumbre).pdf
+GRE-0002024-752-PRC-005-A_Gestion de Residuos Solidos.pdf
+GRE-0002024-782-PRC-003-B_Relaciones comunitarias y Autorizaciones de Ingreso.pdf
+GRE-0002024-820-PRC-001-A_Energizar los tableros AC_DC (Pruebas SAT).pdf
+GRE-0002024-821-PRC-001-A_Pruebas SAT (Energizacion del Transformador Reductor).pdf
+GRE-0002024-821-PRC-002-A_Pruebas SAT (Sistema de Aireacion).pdf
+GRE-0002024-821-PRC-003-A_Pruebas SAT (Estaciones de Bombeo).pdf
+GRE-0002024-821-PRC-004-A_Pruebas SAT (Equipos Transformador de Potencia).pdf
+IMP-0002024-800-PRC-002-B_Procedimiento Comercial.pdf
+GRE-0002024-750-PRC-002-B_Certificacion y Registro Ambiental.pdf
+GRE-0002024-750-PRC-003-B_Capacitaciones Ambientales.pdf
+GRE-0002024-750-PRC-004-A_Planes de Manejo Ambiental.pdf
+GRE-0002024-750-PRC-005-B_Permisos de Sostenibilidad.pdf
+GRE-0002024-750-PRC-006-B_Gestion de Riesgos.pdf
+GRE-0002024-750-PRC-007-B_Buenas Practicas Ambientales.pdf
+GRE-0002024-752-PRC-001-B_Planes de Manejo Ambiental.pdf
+GRE-0002024-241-PRC-001-B_Instalacion de Transformadores de Distribucion.pdf
+GRE-0002024-241-PRC-004-A_Energizar en Vacio la Subestacion.pdf
+GRE-0002024-241-PRC-005-A_Montaje de Equipos de Patio.pdf
+GRE-0002024-241-PRC-007-A_Instalacion Malla Puesta a Tierra  SE.pdf
+GRE-0002024-244-INS-001-A_Tendido del Cableado de Control.pdf
+GRE-0002024-711-PRC-001-B_Seguridad Previo al Ingreso de los Campamentos GPS.pdf
+GRE-0002024-750-PRC-001-B_Evaluacion de prefactibilidad ambiental.pdf
+GRE-0002024-231-PRC-004-A_Instalacion de Cajas de Paso y Canalizaciones Soterradas.pdf
+GRE-0002024-231-PRC-005-A_Ubicacion de Aireadores en Piscina.pdf
+GRE-0002024-231-PRC-006-A_Instalacion de Estructuras para sensores de nivel.pdf
+GRE-0002024-231-PRC-007-A_Montaje, Acople y Alineacion de Motores Electricos.pdf
+GRE-0002024-231-PRC-008-A_Conexionado de Motores Electricos (Bombeo).pdf
+GRE-0002024-231-PRC-009-A_Instalacion y Conexionado de Sensores de Nivel.pdf
+GRE-0002024-240-PRC-002-A_Instalacion de Cables (FO, AT, AS).pdf
+GRE-0002024-241-INS-001-A_Torque de pernos estructurales.pdf
+GRE-0002024-241-INS-002-A_Instalacion Cable Aislado Soterrado.pdf
+GRE-0002024-241-INS-003-A_Instalacion Cable Aislado en Trincheras.pdf
+GRE-0002024-221-PRC-002-A_Instalacion de Bases para Motores Electricos (Polea).pdf
+GRE-0002024-221-PRC-003-A_Tendido de Conductor Sumergible para Aireadores.pdf
+GRE-0002024-221-PRC-004-A_Tendido de Conductores hacia Motores Electricos (Bombeo).pdf
+GRE-0002024-221-PRC-005-B_Tendido del Conductor MT (Media Tension).pdf
+GRE-0002024-221-PRC-006-A_Instalacion de Transformadores de Servicios Generales.pdf
+GRE-0002024-221-PRC-007-A_Instalacion de Transformador Reductor.pdf
+GRE-0002024-221-PRC-018-A_Conexionado de Aireadores Electricos.pdf
+GRE-0002024-231-INS-001-A_Ensamblaje de Aireadores Electricos.pdf
+GRE-0002024-231-PRC-001-B_Tendido del Conductor BT (Baja Tension).pdf
+GRE-0002024-231-PRC-002-B_Instalacion de Tableros de Aireacion.pdf
+GRE-0002024-231-PRC-003-B_Instalacion de Tableros de Compensacion.pdf
+GRE-0002024-203-PRC-022-A_Encofrado.pdf
+GRE-0002024-203-PRC-023-A_Cercado Estructuras  (Apuntalamiento).pdf
+GRE-0002024-203-PRC-024-A_Cercado Linderos.pdf
+GRE-0002024-203-PRC-025-A_Tratamiento y Evacuacion de Hidrocarburos.pdf
+GRE-0002024-211-PRC-004-A_Instalacion de Puestas a Tierra.pdf
+GRE-0002024-211-PRC-005-B_Tendido y regulado de conductor 3 Fases.pdf
+GRE-0002024-211-PRC-006-B_Tendido y Regulado de cable OPGW.pdf
+GRE-0002024-211-PRC-007-B_ Empalme OPGW.pdf
+GRE-0002024-211-PRC-008-B_Pruebas Pre-Funcionales (Lineas) - SAT.pdf
+GRE-0002024-211-PRC-009-B_Energizacion de la Linea.pdf
+GRE-0002024-212-PRC-001-A_Montaje de Torres AT.pdf
+GRE-0002024-212-PRC-002-B_ Instalacion de Baliza y Amortiguadores.pdf
+GRE-0002024-212-PRC-003-A_Vestido de Torre AT.pdf
+GRE-0002024-221-PRC-001-A_Instalacion de Bases para Motores Electricos (Cardan).pdf
+GRE-0002024-203-PRC-011-B_Analisis de Asentamiento y Construccion de Relleno.pdf
+GRE-0002024-203-PRC-012-B_Estabilidad de Taludes.pdf
+GRE-0002024-203-PRC-013-A_Cercado Linderos.pdf
+GRE-0002024-203-PRC-013-B_Diseno de Cimentaciones Superficiales.pdf
+GRE-0002024-203-PRC-014-B_Diseno de Cimentaciones con Pilote.pdf
+GRE-0002024-203-PRC-015-A_Toma, Curado y Rotura de Cilindros.pdf
+GRE-0002024-203-PRC-016-A_Pruebas de Compactacion de Suelos.pdf
+GRE-0002024-203-PRC-017-A_Pruebas no destructivas de Pilotes Barrenados.pdf
+GRE-0002024-203-PRC-018-A_Construccion de Pilotes Barrenados.pdf
+GRE-0002024-203-PRC-019-A_Construccion de Pilotes Hincados.pdf
+GRE-0002024-203-INS-013-B_Diseno de Cimentaciones Superficiales.pdf
+GRE-0002024-200-PRC-003-B_Requisicion de Materiales.pdf
+GRE-0002024-200-PRC-004-B_Cierre de Obra.pdf
+GRE-0002024-200-PRC-005-A_Elaboracion de Dossier de Construccion Final.pdf
+GRE-0002024-200-PRC-006-A_Estacada de Aireadores Electricos en Piscinas.pdf
+GRE-0002024-201-PRC-001-B_Megado de Conductores.pdf
+GPS-0002024-400-INS-001-3_Instructivo General de Compra de Bienes y Servicios.pdf
+GPS-0002024-400-INS-002-0_Instructivo General Importaciones.pdf
+GPS-0002024-400-INS-003-0_Instructivo Adm de Proveedores.pdf
+GPS-0002024-550-INS-002-B_MARCO ETICO, ANTICORRUPCION Y NO COMPETENCIA.pdf
+GPS-0002024-565-POF-001-B_Permisos para Operacion y Funcionamiento (Bomberos).pdf
+GPS-0002024-710-RGL-001-B_Reglamento de Seguridad Corporativo.pdf
+GPS-0002024-712-NRM-001-A_Normativa de Seguridad para Energizacion .pdf
+GPS-0002024-713-PLT-001-A_Politica para el uso de vehiculos.pdf
+GPS-0002024-730-PRC-001-B_Permisos y Descansos Medicos.pdf
+GPS-0002024-782-PRC-001-B_Procedimiento de Contratacion Servicios en Obra.pdf
+GPS-0002024-782-PRC-002-B_Procedimiento de Mano de obra local para obras.pdf
+GPS-0002024-783-PRC-001-B_Procedimiento Atencion Quejas.pdf
+GRE-0002024-200-PRC-001-B_Montaje de Postes.pdf
+GRE-0002024-200-PRC-002-A_Validacion de Stock.pdf
+BLU-0002024-920-PLT-002-B_Politica de Venta de Tableros Electricos.pdf
+GPS-0002024-200-PRC-007-A_Procedimiento de uso de Redline.pdf
+GPS-0002024-300-INS-001-B_Manejo de Caja Chica de Campamento y Oficina.pdf
